@@ -4,6 +4,9 @@
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.scss linguist-detectable=false
+*.rb linguist-detectable=false
+*.hach linguist-detectable=false
+
 
 
 
