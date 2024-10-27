@@ -1,7 +1,7 @@
 *.php linguist-detectable=true
 
 *.css linguist-detectable=false
-*.javascript linguist-detectable=true
+*.js linguist-detectable=true
 *.html linguist-detectable=false
 *.scss linguist-detectable=false
 
