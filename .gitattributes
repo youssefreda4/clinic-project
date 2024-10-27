@@ -3,7 +3,6 @@
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
-*.scss linguist-detectable=false
-*.hach linguist-detectable=false
+
 
 
